@@ -14,8 +14,8 @@ const Header = () => {
       <div className='relative flex items-center justify-between'>
         {/* Logo Section */}
         <Link to='/' className='inline-flex items-center'>
-          <CubeIcon className='h-6 w-6 text-blue-500' />
-          <span className='ml-2 text-xl font-bold tracking-wide text-gray-800'>
+          <CubeIcon className='h-7 w-7 text-blue-500' />
+          <span className='ml-2 text-2xl font-bold tracking-wide text-gray-800'>
             JobBox
           </span>
         </Link>
@@ -71,7 +71,7 @@ const Header = () => {
                 <div className='flex items-center justify-between mb-4'>
                   <div>
                     <Link to='/' className='inline-flex items-center'>
-                      <CubeIcon className='h-6 w-6 text-blue-500' />
+                      <CubeIcon className='h-6 w-6 text-indigo-500' />
                       <span className='ml-2 text-xl font-bold tracking-wide text-gray-800'>
                           JobBox
                       </span>
