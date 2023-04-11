@@ -53,7 +53,7 @@ const Header = () => {
         </ul>
 
         {/* start applying button */}
-        <button className='bg-blue-500 hover:bg-blue-700 px-4 py-2 rounded-md text-white font-bold tracking-wide'>Start Applying</button>
+        <button className='bg-indigo-500 hover:bg-indigo-700 px-4 py-2 rounded-md text-white font-bold tracking-wide'>Start Applying</button>
 
         {/* Mobile Navbar Section */}
         <div className='lg:hidden'>
@@ -122,7 +122,7 @@ const Header = () => {
                     </li>
                   </ul>
                 </nav>
-                <button className='bg-blue-400 px-4 py-2 rounded-md text-white font-bold tracking-wide mt-3 '>Start Applying</button>
+                <button className='bg-indigo-400 hover:bg-indigo-700 px-4 py-2 rounded-md text-white font-bold tracking-wide mt-3 '>Start Applying</button>
               </div>
             </div>
           )}
