@@ -5,11 +5,9 @@ const JobCat = (jobCategory) => {
 
     return (
         <div>
-            <div>
-                <img src={logo} alt={name} />
-                <h4>{name}</h4>
-                <p>{jobs_available} Jobs Available</p>
-            </div>
+            <img src={logo} alt={name} />
+            <h4>{name}</h4>
+            <p>{jobs_available} Jobs Available</p>
         </div>
     );
 };

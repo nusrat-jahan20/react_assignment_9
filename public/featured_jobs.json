@@ -54,7 +54,7 @@
         }
     },
     {
-        "id": 6,
+        "id": 4,
         "companyLogo": "https://seeklogo.com/images/B/bangladesh-bidyut-unnayan-board-logo-B38479CE86-seeklogo.com.png",
         "jobTitle": "Assistant Engineer",
         "companyName": "Bangladesh Power Development Board (BPDB)",
@@ -72,7 +72,7 @@
         }
     },
     {
-        "id": 7,
+        "id": 5,
         "companyLogo": "https://nwpgcl.gov.bd/themes/responsive_npf/img/logo/nwpgcl.png",
         "jobTitle": "Assistant Manager (Mechanical)",
         "companyName": "North-West Power Generation Company Limited (NWPGCL)",
@@ -90,7 +90,7 @@
         }
     },
     {
-        "id": 8,
+        "id": 6,
         "companyLogo": "https://seeklogo.com/images/N/nesco-logo-2915C84B33-seeklogo.com.png",
         "jobTitle": "Assistant Manager (Accounts)",
         "companyName": "Northern Electricity Supply Company Limited (NESCO)",
@@ -108,91 +108,91 @@
         }
     },
     {
-        "id": 9,
-        "company_logo": "https://www.tbsnews.net/sites/default/files/styles/very_big_1/public/images/2019/08/28/tigerit.jpg",
-        "job_title": "Software Engineer",
-        "company_name": "Tiger IT Bangladesh Ltd.",
-        "remote_or_onsite": "Onsite",
+        "id": 7,
+        "companyLogo": "https://www.tbsnews.net/sites/default/files/styles/very_big_1/public/images/2019/08/28/tigerit.jpg",
+        "jobTitle": "Software Engineer",
+        "companyName": "Tiger IT Bangladesh Ltd.",
+        "remoteOrOnsite": "Onsite",
         "location": "Dhaka, Bangladesh",
-        "fulltime_or_parttime": "Full-time",
+        "fulltimeOrParttime": "Full-time",
         "salary": "Negotiable",
-        "job_description": "We are seeking a software engineer with experience in Java to work on our cutting-edge technology projects.",
-        "job_responsibility": "Responsibilities include developing software solutions, designing and implementing new features, and testing and debugging code.",
-        "educational_requirements": "Bachelor's degree in computer science or a related field",
+        "jobDescription": "We are seeking a software engineer with experience in Java to work on our cutting-edge technology projects.",
+        "jobResponsibility": "Responsibilities include developing software solutions, designing and implementing new features, and testing and debugging code.",
+        "educationalRequirements": "Bachelor's degree in computer science or a related field",
         "experiences": "3+ years of experience in software engineering",
-        "contact_information": {
+        "contactInformation": {
             "phone": "+880-2-000000",
             "email": "careers@tigerit.com"
         }
     },
     {
-        "id": 10,
-        "company_logo": "https://www.samsung.com/etc/designs/smg/global/imgs/logo-square-letter.png",
-        "job_title": "Marketing Manager",
-        "company_name": "Samsung BD",
-        "remote_or_onsite": "Remote",
+        "id": 8,
+        "companyLogo": "https://www.samsung.com/etc/designs/smg/global/imgs/logo-square-letter.png",
+        "jobTitle": "Marketing Manager",
+        "companyName": "Samsung BD",
+        "remoteOrOnsite": "Remote",
         "location": "Dhaka, Bangladesh",
-        "fulltime_or_parttime": "Full-time",
+        "fulltimeOrParttime": "Full-time",
         "salary": "Negotiable",
-        "job_description": "We are seeking a marketing manager to develop and implement marketing strategies for our consumer electronics products.",
-        "job_responsibility": "Responsibilities include creating and executing marketing campaigns, conducting market research, and managing relationships with vendors and partners.",
-        "educational_requirements": "Bachelor's degree in marketing, business administration, or a related field",
+        "jobDescription": "We are seeking a marketing manager to develop and implement marketing strategies for our consumer electronics products.",
+        "jobResponsibility": "Responsibilities include creating and executing marketing campaigns, conducting market research, and managing relationships with vendors and partners.",
+        "educationalRequirements": "Bachelor's degree in marketing, business administration, or a related field",
         "experiences": "5+ years of experience in marketing or related field",
-        "contact_information": {
+        "contactInformation": {
             "phone": "+880-2-000000",
             "email": "careers@samsung.com.bd"
         }
     },
     {
-        "id": 11,
-        "company_logo": "https://www.enosisbd.com/wp-content/uploads/2020/07/enosis-logo.png",
-        "job_title": "Software Engineer",
-        "company_name": "Enosis Solutions",
-        "remote_or_onsite": "Onsite",
+        "id": 9,
+        "companyLogo": "https://www.enosisbd.com/wp-content/uploads/2020/07/enosis-logo.png",
+        "jobTitle": "Software Engineer",
+        "companyName": "Enosis Solutions",
+        "remoteOrOnsite": "Onsite",
         "location": "Dhaka",
-        "fulltime_or_parttime": "Full-time",
+        "fulltimeOrParttime": "Full-time",
         "salary": "Negotiable",
-        "job_description": "We are looking for a highly skilled software engineer to join our team. The ideal candidate will have experience in developing software applications for clients.",
-        "job_responsibility": "Develop software applications according to client requirements, Work closely with the design team to ensure that the software is user-friendly and visually appealing, Test and debug software applications to ensure that they are functioning correctly, Document the software development process for future reference",
-        "educational_requirements": "Bachelor's or Master's degree in Computer Science or a related field",
+        "jobDescription": "We are looking for a highly skilled software engineer to join our team. The ideal candidate will have experience in developing software applications for clients.",
+        "jobResponsibility": "Develop software applications according to client requirements, Work closely with the design team to ensure that the software is user-friendly and visually appealing, Test and debug software applications to ensure that they are functioning correctly, Document the software development process for future reference",
+        "educationalRequirements": "Bachelor's or Master's degree in Computer Science or a related field",
         "experiences": "2+ years of experience in software development",
-        "contact_information": {
+        "contactInformation": {
             "phone": "+880 1718-222666",
             "email": "info@enosisbd.com"
         }
     },
     {
-        "id": 12,
-        "company_logo": "https://www.tigerit.com/assets/img/logo.pnghttps://www.tbsnews.net/sites/default/files/styles/very_big_1/public/images/2019/08/28/tigerit.jpg",
-        "job_title": "Senior Python Developer",
-        "company_name": "Tiger IT Bangladesh Ltd.",
-        "remote_or_onsite": "Remote",
+        "id": 10,
+        "companyLogo": "https://www.tbsnews.net/sites/default/files/styles/very_big_1/public/images/2019/08/28/tigerit.jpg",
+        "jobTitle": "Senior Python Developer",
+        "companyName": "Tiger IT Bangladesh Ltd.",
+        "remoteOrOnsite": "Remote",
         "location": "Dhaka",
-        "fulltime_or_parttime": "Full-time",
+        "fulltimeOrParttime": "Full-time",
         "salary": "Negotiable",
-        "job_description": "We are looking for an experienced Python developer to join our team remotely. The ideal candidate will have experience in developing complex software applications using Python and related technologies.",
-        "job_responsibility": "Develop complex software applications using Python and related technologies, Collaborate with cross-functional teams to design, develop and ship new features, Write clean, maintainable and efficient code, Debug and resolve issues in a timely manner, Participate in code reviews and other team activities",
-        "educational_requirements": "Bachelor's or Master's degree in Computer Science or a related field",
+        "jobDescription": "We are looking for an experienced Python developer to join our team remotely. The ideal candidate will have experience in developing complex software applications using Python and related technologies.",
+        "jobResponsibility": "Develop complex software applications using Python and related technologies, Collaborate with cross-functional teams to design, develop and ship new features, Write clean, maintainable and efficient code, Debug and resolve issues in a timely manner, Participate in code reviews and other team activities",
+        "educationalRequirements": "Bachelor's or Master's degree in Computer Science or a related field",
         "experiences": "4+ years of experience in Python development",
-        "contact_information": {
+        "contactInformation": {
             "phone": "+880 1769-527019",
             "email": "hr@tigerit.com"
         }
     },
     {
-        "id": 13,
-        "company_logo": "https://brainstation-23.com/wp-content/uploads/2019/02/BS-Logo-Blue_Hr.svg",
-        "job_title": "Senior React Developer",
-        "company_name": "Brain Station 23 Ltd.",
-        "remote_or_onsite": "Remote",
+        "id": 11,
+        "companyLogo": "https://brainstation-23.com/wp-content/uploads/2019/02/BS-Logo-Blue_Hr.svg",
+        "jobTitle": "Senior React Developer",
+        "companyName": "Brain Station 23 Ltd.",
+        "remoteOrOnsite": "Remote",
         "location": "Dhaka",
-        "fulltime_or_parttime": "Full-time",
+        "fulltimeOrParttime": "Full-time",
         "salary": "Negotiable",
-        "job_description": "We are seeking a skilled React developer to join our team remotely. The ideal candidate will have experience in developing responsive and user-friendly web applications using React and related technologies.",
-        "job_responsibility": "Develop responsive and user-friendly web applications using React and related technologies, Work with cross-functional teams to design, develop and launch new features, Write clean, maintainable and efficient code, Debug and resolve issues in a timely manner, Participate in code reviews and other team activities",
-        "educational_requirements": "Bachelor's or Master's degree in Computer Science or a related field",
+        "jobDescription": "We are seeking a skilled React developer to join our team remotely. The ideal candidate will have experience in developing responsive and user-friendly web applications using React and related technologies.",
+        "jobResponsibility": "Develop responsive and user-friendly web applications using React and related technologies, Work with cross-functional teams to design, develop and launch new features, Write clean, maintainable and efficient code, Debug and resolve issues in a timely manner, Participate in code reviews and other team activities",
+        "educationalRequirements": "Bachelor's or Master's degree in Computer Science or a related field",
         "experiences": "3+ years of experience in React development",
-        "contact_information": {
+        "contactInformation": {
             "phone": "+880 1730-013152",
             "email": "info@brainstation-23.com"
         }
