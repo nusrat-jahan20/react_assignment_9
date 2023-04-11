@@ -1,21 +1,34 @@
 import React from 'react';
+import MyImage from '../../../assets/All_Images/big_man_pic.png';
+import { Link } from 'react-router-dom'
 
 const Banner = () => {
     return (
-        <div>
-            <h1>Looking for Your Dream Job?</h1>
-            <p>
-                Find thousands of job circulars from top companies, and apply to your dream job in
-                just a few clicks! CareerCrate is your ultimate job search partner, providing you
-                with the latest and most relevant job opportunities.
-            </p>
-            <button>Get Hired!</button>
-            <img
-                src="https://img.freepik.com/free-photo/pajamas-clothing-wear-cheerful-adult_1368-2051.jpg?w=1060&t=st=1681207560~exp=1681208160~hmac=ec7b3ca9daaa8e78109bc3fe96e8da634dbf97a7fa7ad7ccf51f37e6dbdfe2b3"
-                alt=""
-            />
+        <div className='my-container flex flex-col items-center justify-between lg:flex-row'>
+            {/* Banner Text */}
+            <div className='mb-10 lg:max-w-lg  lg:pr-5 lg:mb-0'>
+                <div className='max-w-xl mb-6 lg:mt-8'>
+                    <h2 className='max-w-lg mb-6 font-sans lg:text-5xl text-4xl font-bold tracking-tight text-gray-900 sm:text-3xl sm:leading-none md:leading-9'>
+                        One Step <br className='hidden md:block' /> Closer To Your <br className='hidden md:block' />
+                        <span className='inline-block text-blue-500'>Dream Job</span>
+                    </h2>
+                    <p className='text-base text-gray-700 md:text-lg'>
+                        Explore thousands of job opportunities with all the information you need. Its your future. Come find it. Manage all your job application from start to finish.
+                    </p>
+                </div>
+                <div className='flex flex-col items-center md:flex-row'>
+                    <button className='bg-blue-500 px-4 py-2 rounded-md text-white font-bold tracking-wide hover:bg-blue-700'>Get Started</button>
+                </div>
+            </div>
+            {/* Banner Image*/}
+            <div className='lg:w-1/2 '>
+                <div className='w-full lg:w-4/5 lg:ml-auto lg:h-auto  sm:h-64'>
+                <img src={MyImage} alt=""/>
+                </div>
+            </div>
         </div>
     );
 };
 
 export default Banner;
+
