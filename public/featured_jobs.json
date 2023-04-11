@@ -1,0 +1,200 @@
+[
+    {
+        "id": 1,
+        "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Grameenphone_Logo_GP_Logo.svg/1280px-Grameenphone_Logo_GP_Logo.svg.png",
+        "jobTitle": "Software Engineer",
+        "companyName": "Grameenphone Ltd.",
+        "remoteOrOnsite": "Onsite",
+        "location": "Dhaka, Bangladesh",
+        "fulltimeOrParttime": "Full-time",
+        "salary": "Negotiable",
+        "jobDescription": "Grameenphone Ltd. is looking for a Software Engineer to join our team in Dhaka. You will be responsible for designing, developing, and maintaining high-quality software applications and services that meet the needs of our customers. You will work in a fast-paced and dynamic environment, collaborating with cross-functional teams to deliver innovative solutions that drive business growth and customer satisfaction. The ideal candidate has a strong background in software development, with experience in building scalable and maintainable applications using modern technologies and best practices.",
+        "jobResponsibility": "Design, develop, and maintain high-quality software applications and services that meet the needs of our customers.",
+        "educationalRequirements": "Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field.",
+        "experiences": "3+ years of experience in software development, with a proven track record of delivering high-quality software applications.",
+        "contactInformation": {
+            "phone": "+880-2-9882990",
+            "email": "careers@grameenphone.com"
+        }
+    },
+    {
+        "id": 2,
+        "companyLogo": "https://logodix.com/logo/2119897.jpg",
+        "jobTitle": "Digital Marketing Specialist",
+        "companyName": "Robi Axiata Limited",
+        "remoteOrOnsite": "Onsite",
+        "location": "Dhaka, Bangladesh",
+        "fulltimeOrParttime": "Full-time",
+        "salary": "Negotiable",
+        "jobDescription": "Robi Axiata Limited is looking for a Digital Marketing Specialist to join our team in Dhaka. You will be responsible for creating and executing digital marketing campaigns to drive user acquisition, engagement, and retention for our products and services. You will collaborate with cross-functional teams to develop and implement effective digital marketing strategies that align with business goals and customer needs. The ideal candidate has a deep understanding of digital marketing channels, tools, and technologies, and can analyze data to optimize performance and drive business growth.",
+        "jobResponsibility": "Create and execute digital marketing campaigns to drive user acquisition, engagement, and retention for Robi's products and services.",
+        "educationalRequirements": "Bachelor's or Master's degree in Marketing, Business, Communications, or a related field.",
+        "experiences": "3+ years of experience in digital marketing, with a proven track record of executing successful campaigns and driving business growth.",
+        "contactInformation": {
+            "phone": "+880-18-212466",
+            "email": "careers@robi.com.bd"
+        }
+    },
+    {
+        "id": 3,
+        "companyLogo": "https://pathao.com/wp-content/uploads/2019/03/Pathao-logo.png",
+        "jobTitle": "Frontend Developer",
+        "companyName": "Pathao Limited",
+        "remoteOrOnsite": "Onsite",
+        "location": "Dhaka, Bangladesh",
+        "fulltimeOrParttime": "Full-time",
+        "salary": "Negotiable",
+        "jobDescription": "Pathao Limited is looking for a Frontend Developer to join our team in Dhaka. You will be responsible for developing and maintaining high-quality web and mobile applications that meet the needs of our customers. You will work closely with designers, back-end developers, and product managers to create user-friendly and scalable applications that enhance the customer experience. The ideal candidate has a strong background in frontend development, with experience in building responsive and accessible web applications using modern frameworks and technologies.",
+        "jobResponsibility": "Develop and maintain high-quality web and mobile applications that meet the needs of Pathao's customers.",
+        "educationalRequirements": "Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field.",
+        "experiences": "2+ years of experience in frontend development, with a proven track record of delivering high-quality web and mobile applications.",
+        "contactInformation": {
+            "phone": "+880-171-1234567",
+            "email": "careers@pathao.com"
+        }
+    },
+    {
+        "id": 6,
+        "companyLogo": "https://seeklogo.com/images/B/bangladesh-bidyut-unnayan-board-logo-B38479CE86-seeklogo.com.png",
+        "jobTitle": "Assistant Engineer",
+        "companyName": "Bangladesh Power Development Board (BPDB)",
+        "remoteOrOnsite": "Onsite",
+        "location": "Dhaka, Bangladesh",
+        "fulltimeOrParttime": "Full-time",
+        "salary": "22,000-53,060 BDT",
+        "jobDescription": "The Bangladesh Power Development Board (BPDB) is seeking an Assistant Engineer to assist with the planning, design, and maintenance of power generation and distribution systems.",
+        "jobResponsibility": "- Assist with the planning, design, and maintenance of power generation and distribution systems\n- Conduct field inspections and investigations\n- Prepare technical reports and proposals\n- Perform related duties as assigned",
+        "educationalRequirements": "BSc in Electrical/Mechanical Engineering or equivalent",
+        "experiences": "N/A",
+        "contactInformation": {
+            "phone": "+880-2-9560051",
+            "email": "info@bpdb.gov.bd"
+        }
+    },
+    {
+        "id": 7,
+        "companyLogo": "https://nwpgcl.gov.bd/themes/responsive_npf/img/logo/nwpgcl.png",
+        "jobTitle": "Assistant Manager (Mechanical)",
+        "companyName": "North-West Power Generation Company Limited (NWPGCL)",
+        "remoteOrOnsite": "Onsite",
+        "location": "Rajshahi, Bangladesh",
+        "fulltimeOrParttime": "Full-time",
+        "salary": "30,000-58,790 BDT",
+        "jobDescription": "The North-West Power Generation Company Limited (NWPGCL) is seeking an Assistant Manager (Mechanical) to assist with the maintenance and operation of power plants.",
+        "jobResponsibility": "- Assist with the maintenance and operation of power plants\n- Conduct regular inspections and preventive maintenance\n- Ensure compliance with safety and environmental regulations\n- Perform related duties as assigned",
+        "educationalRequirements": "BSc in Mechanical Engineering or equivalent",
+        "experiences": "2 years of relevant experience",
+        "contactInformation": {
+            "phone": "+880-2-9893208",
+            "email": "info@nwpgcl.org.bd"
+        }
+    },
+    {
+        "id": 8,
+        "companyLogo": "https://seeklogo.com/images/N/nesco-logo-2915C84B33-seeklogo.com.png",
+        "jobTitle": "Assistant Manager (Accounts)",
+        "companyName": "Northern Electricity Supply Company Limited (NESCO)",
+        "remoteOrOnsite": "Onsite",
+        "location": "Rangpur, Bangladesh",
+        "fulltimeOrParttime": "Full-time",
+        "salary": "22,000-53,060 BDT",
+        "jobDescription": "The Northern Electricity Supply Company Limited (NESCO) is seeking an Assistant Manager (Accounts) to manage financial transactions and prepare financial reports.",
+        "jobResponsibility": "- Manage financial transactions and prepare financial reports\n- Monitor and analyze accounting data\n- Ensure compliance with accounting standards and regulations\n- Perform related duties as assigned",
+        "educationalRequirements": "BCom/MCom or equivalent",
+        "experiences": "2 years of relevant experience",
+        "contactInformation": {
+            "phone": "+880-521-68124",
+            "email": "info@nesco.gov.bd"
+        }
+    },
+    {
+        "id": 9,
+        "company_logo": "https://www.tbsnews.net/sites/default/files/styles/very_big_1/public/images/2019/08/28/tigerit.jpg",
+        "job_title": "Software Engineer",
+        "company_name": "Tiger IT Bangladesh Ltd.",
+        "remote_or_onsite": "Onsite",
+        "location": "Dhaka, Bangladesh",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "Negotiable",
+        "job_description": "We are seeking a software engineer with experience in Java to work on our cutting-edge technology projects.",
+        "job_responsibility": "Responsibilities include developing software solutions, designing and implementing new features, and testing and debugging code.",
+        "educational_requirements": "Bachelor's degree in computer science or a related field",
+        "experiences": "3+ years of experience in software engineering",
+        "contact_information": {
+            "phone": "+880-2-000000",
+            "email": "careers@tigerit.com"
+        }
+    },
+    {
+        "id": 10,
+        "company_logo": "https://www.samsung.com/etc/designs/smg/global/imgs/logo-square-letter.png",
+        "job_title": "Marketing Manager",
+        "company_name": "Samsung BD",
+        "remote_or_onsite": "Remote",
+        "location": "Dhaka, Bangladesh",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "Negotiable",
+        "job_description": "We are seeking a marketing manager to develop and implement marketing strategies for our consumer electronics products.",
+        "job_responsibility": "Responsibilities include creating and executing marketing campaigns, conducting market research, and managing relationships with vendors and partners.",
+        "educational_requirements": "Bachelor's degree in marketing, business administration, or a related field",
+        "experiences": "5+ years of experience in marketing or related field",
+        "contact_information": {
+            "phone": "+880-2-000000",
+            "email": "careers@samsung.com.bd"
+        }
+    },
+    {
+        "id": 11,
+        "company_logo": "https://www.enosisbd.com/wp-content/uploads/2020/07/enosis-logo.png",
+        "job_title": "Software Engineer",
+        "company_name": "Enosis Solutions",
+        "remote_or_onsite": "Onsite",
+        "location": "Dhaka",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "Negotiable",
+        "job_description": "We are looking for a highly skilled software engineer to join our team. The ideal candidate will have experience in developing software applications for clients.",
+        "job_responsibility": "Develop software applications according to client requirements, Work closely with the design team to ensure that the software is user-friendly and visually appealing, Test and debug software applications to ensure that they are functioning correctly, Document the software development process for future reference",
+        "educational_requirements": "Bachelor's or Master's degree in Computer Science or a related field",
+        "experiences": "2+ years of experience in software development",
+        "contact_information": {
+            "phone": "+880 1718-222666",
+            "email": "info@enosisbd.com"
+        }
+    },
+    {
+        "id": 12,
+        "company_logo": "https://www.tigerit.com/assets/img/logo.pnghttps://www.tbsnews.net/sites/default/files/styles/very_big_1/public/images/2019/08/28/tigerit.jpg",
+        "job_title": "Senior Python Developer",
+        "company_name": "Tiger IT Bangladesh Ltd.",
+        "remote_or_onsite": "Remote",
+        "location": "Dhaka",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "Negotiable",
+        "job_description": "We are looking for an experienced Python developer to join our team remotely. The ideal candidate will have experience in developing complex software applications using Python and related technologies.",
+        "job_responsibility": "Develop complex software applications using Python and related technologies, Collaborate with cross-functional teams to design, develop and ship new features, Write clean, maintainable and efficient code, Debug and resolve issues in a timely manner, Participate in code reviews and other team activities",
+        "educational_requirements": "Bachelor's or Master's degree in Computer Science or a related field",
+        "experiences": "4+ years of experience in Python development",
+        "contact_information": {
+            "phone": "+880 1769-527019",
+            "email": "hr@tigerit.com"
+        }
+    },
+    {
+        "id": 13,
+        "company_logo": "https://brainstation-23.com/wp-content/uploads/2019/02/BS-Logo-Blue_Hr.svg",
+        "job_title": "Senior React Developer",
+        "company_name": "Brain Station 23 Ltd.",
+        "remote_or_onsite": "Remote",
+        "location": "Dhaka",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "Negotiable",
+        "job_description": "We are seeking a skilled React developer to join our team remotely. The ideal candidate will have experience in developing responsive and user-friendly web applications using React and related technologies.",
+        "job_responsibility": "Develop responsive and user-friendly web applications using React and related technologies, Work with cross-functional teams to design, develop and launch new features, Write clean, maintainable and efficient code, Debug and resolve issues in a timely manner, Participate in code reviews and other team activities",
+        "educational_requirements": "Bachelor's or Master's degree in Computer Science or a related field",
+        "experiences": "3+ years of experience in React development",
+        "contact_information": {
+            "phone": "+880 1730-013152",
+            "email": "info@brainstation-23.com"
+        }
+    }
+]
