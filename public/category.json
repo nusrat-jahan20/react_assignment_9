@@ -1,0 +1,22 @@
+[
+    {
+        "logo": "https://example.com/logos/marketing.png",
+        "name": "Marketing",
+        "jobs_available": 100
+    },
+    {
+        "logo": "https://example.com/logos/engineering.png",
+        "name": "Engineering",
+        "jobs_available": 75
+    },
+    {
+        "logo": "https://example.com/logos/finance.png",
+        "name": "Finance",
+        "jobs_available": 50
+    },
+    {
+        "logo": "https://example.com/logos/human_resources.png",
+        "name": "Human Resources",
+        "jobs_available": 25
+    }
+]
