@@ -1,21 +1,21 @@
 [
     {
-        "logo": "https://example.com/logos/marketing.png",
+        "logo": "https://raw.githubusercontent.com/ProgrammingHero1/career-hub/main/assets/Icons/social-media%201.png",
         "name": "Marketing",
-        "jobs_available": 100
+        "jobs_available": 87
     },
     {
-        "logo": "https://example.com/logos/engineering.png",
+        "logo": "https://raw.githubusercontent.com/ProgrammingHero1/career-hub/main/assets/Icons/chip%201.png",
         "name": "Engineering",
-        "jobs_available": 75
+        "jobs_available": 102
     },
     {
-        "logo": "https://example.com/logos/finance.png",
+        "logo": "https://raw.githubusercontent.com/ProgrammingHero1/career-hub/main/assets/Icons/accounts%201.png",
         "name": "Finance",
         "jobs_available": 50
     },
     {
-        "logo": "https://example.com/logos/human_resources.png",
+        "logo": "https://raw.githubusercontent.com/ProgrammingHero1/career-hub/main/assets/Icons/business%201.png",
         "name": "Human Resources",
         "jobs_available": 25
     }
