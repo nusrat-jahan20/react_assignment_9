@@ -5,7 +5,7 @@ const Footer = () => {
     return (
         <div className='bg-black text-white'>
             <div className="my-container">
-                <div className="grid grid-cols-6 gap-16">
+                <div className="grid lg:grid-cols-6 sm:grid-cols-1 md:grid-cols-2 gap-16">
                     <div className="col-span-2">
                         <h1 className='font-bold text-3xl mb-6'>JobBox</h1>
                         <p className='text-slate-400 mb-5'>There are many variations of passages of Lorem Ipsum , but the majority have suffered alteration in some form.</p>
